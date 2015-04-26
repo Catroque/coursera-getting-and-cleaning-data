@@ -55,7 +55,9 @@ activityLabelsColClass <- c('numeric', 'character')
 ###
 # reading content
 #
-activityLabelsDataFrame <- read.table(activityLabelsFile, sep=' ', col.names=activityLabelsColNames, colClasses=activityLabelsColClass)
+activityLabelsDataFrame <- read.table(activityLabelsFile, sep=' ', 
+                                      col.names=activityLabelsColNames, 
+                                      colClasses=activityLabelsColClass)
 
 
 ###################################
