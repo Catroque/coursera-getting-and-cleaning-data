@@ -18,4 +18,4 @@ You should create one R script called run_analysis.R that does the following.
 
 ### Dependencies
 
-To run this script you must setting the working directory where the ''UCI HAR Dataset'' extracted subdirectory for the project can be seen. Not have dependencies with other packages.
+Not have dependencies with other packages.
