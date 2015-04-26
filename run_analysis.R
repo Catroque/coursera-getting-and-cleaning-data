@@ -176,4 +176,4 @@ names[2] = 'subject'
 colnames(tidy) <- names
 
 
-write.table(tidy, "tidy.txt", sep="\t")
+write.table(tidy, "tiny_data.txt", sep="\t", row.name=FALSE)
