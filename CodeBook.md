@@ -1,4 +1,4 @@
-# Data source
+## Data source
 
 This dataset is derived from the "Human Activity Recognition Using Smartphones Data Set" which
 was originally made avaiable here: 
@@ -14,7 +14,7 @@ partition is also split into three files that contain
 - identifier of the subject
 
 
-# run_analysis.R
+## run_analysis.R
 
 The script 'run_analysis.R'
 
@@ -37,3 +37,7 @@ The script 'run_analysis.R'
 - the processed tidy data set is also exported as txt file.
 
 
+## Configuration
+
+Before use of this script, set the working directory that has a 'UCI HAR Dataset' directory obtained from 
+extracted source file of project: https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip 
