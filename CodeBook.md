@@ -14,7 +14,7 @@ partition is also split into three files that contain
 - identifier of the subject
 
 
-## run_analysis.R
+## Script
 
 The script 'run_analysis.R'
 
